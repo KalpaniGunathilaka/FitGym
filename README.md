@@ -6,20 +6,26 @@
 
 ## 🚀 Features
 
-✔ 🌙 Dark / Light mode  
-✔ 📱 Responsive design  
-✔ 🎨 Modern UI  
-✔ 🔍 Services search filter  
-✔ 📩 Contact form  
+- 🌙 Dark / Light mode  
+- 📱 Responsive design  
+- 🎨 Modern UI  
+- 🔍 Services search filter  
+- 📩 Contact form  
 
 ---
 
 ## 🛠️ Tech Stack
 
-⚛️ React  
-🎨 Tailwind CSS  
-🎬 Framer Motion  
-🔗 React Icons  
+- ⚛️ React  
+- 🎨 Tailwind CSS  
+- 🎬 Framer Motion  
+- 🔗 React Icons  
+
+---
+
+## 🌐 Live Demo
+
+👉 https://fit-gym-six.vercel.app/
 
 ---
 
